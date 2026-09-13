@@ -1,0 +1,8 @@
+﻿  mashina.c
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(16,7): warning C4129: "`": нераспознанная escape-последовательность символов
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(21,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(22,7): warning C4129: "-": нераспознанная escape-последовательность символов
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(22,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(25,7): warning C4129: " ": нераспознанная escape-последовательность символов
+C:\Users\tihon\source\repos\Domashnee zadanye\labdz\mashina.c(28,2): warning C4098: main: функция типа "void", возвращающая значение
+  labdz.vcxproj -> C:\Users\tihon\source\repos\Domashnee zadanye\x64\Debug\labdz.exe
