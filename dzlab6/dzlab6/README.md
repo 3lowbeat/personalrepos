@@ -14,10 +14,15 @@
 ![](dzlab6scheme.png)
 ## 2.Реализация программы
 #include <stdio.h>
+
 #include <math.h>
+
 #include <locale.h>
+
 main()
+
 {
+
 	setlocale(LC_CTYPE, "RUS");
 	double x;
 	double y;
@@ -27,6 +32,7 @@ main()
 	if ((pow(x, 2)+pow(y, 2)<=pow(r, 2))&&((x<0)||(y<0)))
 		printf("Точка с координатами (%.1lf,%.1lf) принадлежит заданной области", x, y);
 	else printf("Точка с координатами (%.1lf,%.1lf) не принадлежит заданной области", x, y);
+	
 
 }
 
