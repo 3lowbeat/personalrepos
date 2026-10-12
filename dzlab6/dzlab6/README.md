@@ -13,14 +13,11 @@
 ### Блок-схема
 ![](dzlab6scheme.png)
 ## 2.Реализация программы
+{
 #include <stdio.h>
-
 #include <math.h>
-
 #include <locale.h>
-
 main()
-
 {
 
 	setlocale(LC_CTYPE, "RUS");
@@ -34,6 +31,7 @@ main()
 	else printf("Точка с координатами (%.1lf,%.1lf) не принадлежит заданной области", x, y);
 	
 
+}
 }
 
 ## 3.Результат выполнения программы
