@@ -11,7 +11,7 @@
 
 4.Форматированный вывод результата
 ### Блок-схема
-![](dzlab7scheme.drawio.png)
+![](dzlab7scheme.png)
 ## 2.Реализация программы
 #include <stdio.h>
 #include <locale.h>
